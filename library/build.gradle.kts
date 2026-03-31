@@ -36,7 +36,7 @@ afterEvaluate {
     publishing {
         publications {
             create<MavenPublication>("release") {
-                groupId = "com.github.tachiyomiorg"
+                groupId = "com.github.hagitori"
                 artifactId = "subsampling-scale-image-view"
                 version = "4.0.0"
 
